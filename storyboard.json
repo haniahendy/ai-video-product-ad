@@ -1,0 +1,11 @@
+{
+  "title": "Aurora Buds - 5s product spot",
+  "format": "single-shot macro product commercial",
+  "target_style": "premium tech advertisement, dark studio, 35mm film look",
+  "beats": [
+    {"t": "0.0-1.5s", "shot": "macro close on matte earbuds case, amber/teal rim light, droplets suspended", "camera": "slow dolly-in"},
+    {"t": "1.5-3.5s", "shot": "case rotating on dark reflective surface, reflections rippling", "camera": "dolly continues"},
+    {"t": "3.5-5.0s", "shot": "hero hold, lighting peaks, shallow depth of field isolates product", "camera": "settle"}
+  ],
+  "post": "none (straight model output, no grading or edits)"
+}
