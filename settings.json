@@ -1,0 +1,14 @@
+{
+  "tool": "Hailuo AI (hailuoai.video), official MiniMax service operated by Nanonoble Pte. Ltd.",
+  "model": "MiniMax H3",
+  "mode": "text-to-video",
+  "resolution": "768p (1344x768)",
+  "aspect_ratio": "16:9",
+  "duration_seconds": 5,
+  "fps": 24,
+  "codec": "h264",
+  "credits_cost": 35,
+  "plan": "free (new-user complimentary credits)",
+  "generated": "2026-11-25",
+  "watermark": "MINIMAX | Hailuo AI (free-tier watermark, retained per Terms of Service)"
+}
